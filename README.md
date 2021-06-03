@@ -31,5 +31,7 @@ The script automatically processes the string by getting rid of the empty space 
 
 - File showcase
 ![PDF file](pic/rm_1.png?raw=true "Title")
+- Terminal command
 ![Terminal command](pic/rm_2.png?raw=true "Title")
+- Result text
 ![Result text](pic/rm_3.png?raw=true "Title")
