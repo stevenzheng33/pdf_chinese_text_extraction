@@ -26,3 +26,8 @@ The script converts pdf to jpegs and then use OCR to recognize all the Chinese c
 ## Regex Keywording
 
 The script automatically processes the string by getting rid of the empty space and newline characters. It combines the text from multiple pages and puts them into one. One important way to extract the data is to use regular expression to locate the information. Use function such as findall to locate the keyword and snoop around to find the number or textual information.
+
+## Example
+
+- File showcase
+![PDF file](pic/rm_1.png?raw=true "Title")
